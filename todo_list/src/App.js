@@ -1,5 +1,7 @@
 import React, {useState,useEffect} from "react";
 
+// OK NOW WE ARE GETTING SOMEWHERE WITH GIT
+
 import "./App.css";
 const App = () => {
   const [todos, setTodos] = useState([]);
